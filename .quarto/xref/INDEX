@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "f88127ec"
+  },
+  "intro.qmd": {
+    "intro.html": "57e9ea5a"
+  },
+  "summary.qmd": {
+    "summary.html": "55a4d445"
+  },
+  "references.qmd": {
+    "references.html": "17550cf3"
+  },
+  "form.qmd": {
+    "form.html": "2c3b8acb"
+  },
+  "content.qmd": {
+    "content.html": "e1bc1cc8"
+  },
+  "apparatus.qmd": {
+    "apparatus.html": "015181fb"
+  },
+  "notebook.ipynb": {
+    "notebook.html": "13a37c85"
+  },
+  "notebook.qmd": {
+    "notebook.html": "471eab3f"
+  },
+  "journal.qmd": {
+    "journal.html": "baf44785"
+  }
+}

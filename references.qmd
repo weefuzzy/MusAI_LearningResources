@@ -1,0 +1,11 @@
+---
+nocite: |
+  @*
+---
+
+# References {.unnumbered}
+
+Checking out the referencing capabilities. I just dumped my whole MusAI bibliography into a .bib file, and told quarto to render it: 
+
+::: {#refs}
+:::

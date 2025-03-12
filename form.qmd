@@ -1,0 +1,12 @@
+# Form {.unnumbered}
+
+
+::: {.callout-tip}
+## What *is* this thing we're planning to build? 
+
+* A collection of loosely organised resources? 
+* A shareable curriculum? An online book? 
+* Some new thing? 
+
+**Do we want to let the answer to this emerge, or settle it quickly?**
+:::
