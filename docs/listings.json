@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/playground.html",
+    "items": [
+      "/playground/notebook.html",
+      "/playground/references.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/survey.html"
+    ]
+  }
+]
