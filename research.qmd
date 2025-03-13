@@ -1,0 +1,8 @@
+---
+listing:
+    contents: "research/*.qmd"
+---
+
+# Research 
+
+Collected research strands for this project

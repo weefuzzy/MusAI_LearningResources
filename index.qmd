@@ -1,5 +1,49 @@
 # Preface {.unnumbered}
 
-This isn't yet a public website! 
+This is a quickly assembled container into which we can start putting stuff and tweaking. 
 
-It's just a quickly assembled container into which we can start putting stuff and tweaking. 
+
+## Form {.unnumbered}
+
+
+::: {.callout-tip}
+### What *is* this thing we're planning to build? 
+
+* A collection of loosely organised resources? 
+* A shareable curriculum? An online book? 
+* Some new thing? 
+
+**Do we want to let the answer to this emerge, or settle it quickly?**
+:::
+
+## Content {.unnumbered}
+
+::: {.callout-note}
+
+### What's going to populate it? 
+
+* Extended texts from MusAI researchers? 
+* Teaching content? 
+* Videos? 
+* (Runnable) code? 
+* Interactive widgets? 
+* How important is the look & feel?  
+:::
+
+## Apparatus {.unnumbered}
+
+:::  {.callout-important}
+
+### What technical requirements follow from form and content? 
+
+* What do we need in order to collaborate effectively? 
+* How will content make its way to publication? 
+* What are the needs for longevity after the project finishes? 
+
+:::
+
+These pages are put together using [quarto](https://quarto.org), which is designed for scholarly purposes. 
+
+A big advantage over wordpress is that it doesn't require extensive server infrastructure: the output is 'static' html and any interactive stuff runs in the browser. This makes hosting much simpler. 
+
+It is also simple to feed content: it basically consumes text files, and these are easy to manage collaboratively through git. 

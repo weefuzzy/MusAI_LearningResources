@@ -28,5 +28,23 @@
   },
   "journal.qmd": {
     "journal.html": "baf44785"
+  },
+  "research.qmd": {
+    "research.html": "bc89f7da"
+  },
+  "survey.qmd": {
+    "survey.html": "772b4a11"
+  },
+  "playground.qmd": {
+    "playground.html": "c02969ec"
+  },
+  "research/survey.qmd": {
+    "survey.html": "953536d9"
+  },
+  "playground/notebook.qmd": {
+    "notebook.html": "8c4f7253"
+  },
+  "playground/references.qmd": {
+    "references.html": "78f5484f"
   }
 }
