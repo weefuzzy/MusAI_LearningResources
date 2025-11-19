@@ -16,6 +16,14 @@ This is a quickly assembled container into which we can start putting stuff and 
 **Do we want to let the answer to this emerge, or settle it quickly?**
 :::
 
+From meeting 25/07/25: 
+
+* Conceive of this as a curiculuum / online book
+* Resources for researchers / teachers in critical and/or creative AI, autodidacts
+    * Substantive content but lots of signposting 
+* First marketing drive could be internal to our networks—colleagues working in similar areas 
+
+
 ## Content {.unnumbered}
 
 ::: {.callout-note}
@@ -29,6 +37,17 @@ This is a quickly assembled container into which we can start putting stuff and 
 * Interactive widgets? 
 * How important is the look & feel?  
 :::
+
+From meeting 25/07/25: 
+
+* Initial content: 
+    * Needs to be an easy request of MusAI researchers 
+    * Needs to be clear enough in offering that readers can make quick determination about whether interested 
+    * First pages follow topics of seminar / lectures series 
+    * 500-1000w 
+    * Suggested standard structure: abstract; contextualisation; reading list; activities 
+    * Draw on existing resources where we can: lecture vids (permission, copyright, etc allowing), activities from Figma boards in UAL series, reading lists from lectures
+
 
 ## Apparatus {.unnumbered}
 
