@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/research.html",
+    "items": [
+      "/research/survey.html"
+    ]
+  },
+  {
+    "listing": "/research/survey.html",
+    "items": []
+  },
+  {
     "listing": "/playground.html",
     "items": [
       "/playground/notebook.html",
@@ -7,9 +17,15 @@
     ]
   },
   {
-    "listing": "/research.html",
+    "listing": "/sessions.html",
     "items": [
-      "/research/survey.html"
+      "/sessions/artcritique.html",
+      "/sessions/culture.html",
+      "/sessions/creaticepractice.html",
+      "/sessions/others.html",
+      "/sessions/personalisation.html",
+      "/sessions/models.html",
+      "/sessions/politicaleconomy.html"
     ]
   }
 ]

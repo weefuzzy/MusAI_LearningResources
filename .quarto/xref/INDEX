@@ -46,5 +46,29 @@
   },
   "playground/references.qmd": {
     "references.html": "78f5484f"
+  },
+  "sessions.qmd": {
+    "sessions.html": "a3b09f15"
+  },
+  "sessions/artcritique.qmd": {
+    "artcritique.html": "df2a6960"
+  },
+  "sessions/creaticepractice.qmd": {
+    "creaticepractice.html": "a822716f"
+  },
+  "sessions/culture.qmd": {
+    "culture.html": "ca131891"
+  },
+  "sessions/models.qmd": {
+    "models.html": "59ae93f2"
+  },
+  "sessions/others.qmd": {
+    "others.html": "8bf536ee"
+  },
+  "sessions/personalisation.qmd": {
+    "personalisation.html": "acda2870"
+  },
+  "sessions/politicaleconomy.qmd": {
+    "politicaleconomy.html": "9f026a5a"
   }
 }

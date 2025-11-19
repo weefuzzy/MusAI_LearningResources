@@ -1,0 +1,6 @@
+title: musai-readings
+author: OG
+version: 0.0.1
+contributes:
+  filters:
+    - musai-readings.lua
