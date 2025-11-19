@@ -1,0 +1,23 @@
+---
+title: "ML and Creative Practice"
+---
+
+# Abstract 
+
+What kinds of technical and artistic innovation does ML enable? What is the relationship between them and how are they shaped by aesthetic concerns? Can artistic work with ML serve as a source of critique, informed by humanities scholarship? We examine contemporary and critical practice in musical composition with ML. 
+
+
+# Core Readings 
+
+Einbond, Aaron ‘Magic of Machine Learning: Interdisciplinary Composition and Collaboration in Prestidigitation’ (forthcoming 2025) 
+
+Gioti, Artemi-Maria, Aaron Einbond, and Georgina Born. ‘Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning’. Computer Music Journal 46, no. 4 (2022): 62–80. https://doi.org/10.1162/comj_a_00658.
+
+# Further Readings
+
+Born, G. (2005). On Musical Mediation: Ontology, Technology and Creativity. Twentieth-Century Music, 2(1), 7–36.
+Goldsmith, Kennth, ‘Introduction’ in Uncreative Writing. New York: Columbia University Press, 201, pp 1-13
+
+Lewis, G. E. 1999. “Interacting with Latter-Day Musical Automata.” Contemporary Music Review 18(3):99–112. 10.1080/07494469900640381
+
+Malafouris, L. 2008. “At the Potter’s Wheel: An Argument for Material Agency.” In C. Knappett and L. Malafouris, eds. Material Agency: Towards a Non-Anthropocentric Approach. Berlin: Springer, pp. 19–36.

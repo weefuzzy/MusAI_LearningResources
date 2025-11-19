@@ -1,0 +1,28 @@
+---
+title: "ML and its Others: Can AI Be Decolonised?"
+author: "Darci Spengel" 
+---
+
+# Abstract 
+
+This week explores the limitations of decolonising AI in the music industry. It questions whether AI, as a socio-technical assemblage always embedded in its larger cultural and historical contexts, is a coherent object that can be decolonised. Using the Arabic music industries based out of the UAE and Egypt, as well as Anghami, a Beirut-based music streaming service, as case studies, it demonstrates how the Arabic music industry operationalises AI in ways that both challenge and uphold relations of power within the region and beyond. Most broadly, it shows the limitations of decolonising AI even when starting from the epistemologies of listeners and musicians in the global South.
+
+# Core Readings
+
+Sprengel, Darci. ‘Can AI Be Decolonised?: Notes from the Arabic Music Industry’ (forthcoming 2025). 
+
+Born, Georgina. ‘Diversifying MIR: Knowledge and Real-World Challenges, and New Interdisciplinary Futures’. Transactions of the International Society for Music Information Retrieval 3, no. 1 (2020): 193–204. https://doi.org/10.5334/tismir.58.
+
+# Further Readings
+
+Arun, C. (2020). AI and the Global South: Designing for Other Worlds. In M. D. 
+
+Dubber, F. Pasquale, & S. Das (Eds.), The Oxford Handbook of Ethics of AI (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190067397.013.38
+
+Clark, Emily Hansell. ‘A Postcolonial MIR?’ Resonance 3, no. 4 (1 December 2022): 412–32. https://doi.org/10.1525/res.2022.3.4.412.
+
+D’Ignazio, C. & L. F. Klein (2020). Introduction. In C. D’Ignazio & L. F. Klein, Data Feminism (pp. 1–23). MIT Press. https://data-feminism.mitpress.mit.edu/
+
+Huang, R. S., Holzapfel, A., Sturm, B. L. T., & Kaila, A.-K. (2023). Beyond Diverse Datasets: Responsible MIR, Interdisciplinarity, and the Fractured Worlds of Music. Transactions of the International Society for Music Information Retrieval, 6(1), 43–59. https://doi.org/10.5334/tismir.141
+
+Muldoon, J., & Wu, B. A. (2023). Artificial Intelligence in the Colonial Matrix of Power. Philosophy & Technology, 36(4), 80. https://doi.org/10.1007/s13347-023-00687-8

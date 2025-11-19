@@ -1,0 +1,33 @@
+---
+title: "ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems" 
+---
+
+# Abstract
+
+With ideas around political economy, value and the user in hand, we venture beyond this to consider the limits of personalization as a paradigm, and introduce ideas of public value. Focus on a case study of a combined conceptual-and-technical intervention: a new metric for recommender systems conceived around notions of public value. 
+
+
+# Core Readings
+
+Ferraro, Andres, Gustavo Ferreira, Fernando Diaz, and Georgina Born. "Measuring Commonality in Recommendation of Cultural Content to Strengthen Cultural Citizenship." ACM Transactions on Recommender Systems 2, no. 1 (2024): 1-32. [Full version - shorter version below]
+
+Born, Georgina and Fernando Diaz, “A Public Service Media Perspective on the Algorithmic Amplification of Cultural Content”, Knight First Amendment Institute at Columbia University (2024): https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content
+
+
+# Further Readings
+
+Andrejevic, Mark. ‘Data civics: A response to the “ethical turn”’. Television & New Media, 21(6), pp. 562-567. (2020)
+
+Born, Georgina. ‘Mediating the Public Sphere’, in C. Emden and D. Midgley, Beyond Habermas: Democracy, Knowledge, and the Public Sphere (2012).
+
+Agre, Philip E. ‘Toward a Critical Technical Practice: Lessons learned in trying to reform AI’, in Social Science, Technical Systems, and Cooperative Work, pp. 131-157. (2014).
+
+Born, Georgina, Jeremy Morris, Fernando Diaz, and Ashton Anderson. "Artificial intelligence, Music Recommendation, and the Curation of Culture." (2021). https://utoronto.scholaris.ca/server/api/core/bitstreams/3fee35e6-48e7-444a-8b4f-e40afadd7bae/content
+
+Bown, Oliver. ‘From Genies Performing Magic to Sages Imparting Wisdom: A Value-Centred Survey of Music AI User Interfaces, Creative Affordances and Artist Objectives’. Journal of New Music Research, 1–14 (2025). https://doi.org/10.1080/09298215.2024.2442360.
+
+Ferraro, Andres, Gustavo Ferreira, Fernando Diaz, and Georgina Born. ‘Measuring Commonality in Recommendation of Cultural Content: Recommender Systems to Enhance Cultural Citizenship’. In Proceedings of the 16th ACM Conference on Recommender Systems, 567–72. RecSys ’22. New York, NY, USA: Association for Computing Machinery (2022). https://doi.org/10.1145/3523227.3551476. [Shorter version of first core paper]
+
+Seaver, Nick. ‘Algorithmic Recommendations and Synaptic Functions’. Limn, no. 2 (2012) https://limn.press/article/algorithmic-recommendations-and-synaptic-functions/.
+
+Seaver, Nick. Computing Taste: Algorithms and the Makers of Music Recommendation (2022)

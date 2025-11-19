@@ -1,0 +1,27 @@
+---
+title: "The Objects of ML "
+---
+
+# Abstract
+
+How does ML conceptualize the objects it models, such as ‘music’ in music information retrieval? Through the question of musical genre – as a particular kind of musical object – we can see radical reductions in how music is often modelled. This has epistemological consequences for what these models can tell us in research, but also quite possibly ontological consequences if – as some argue – models of social and cultural phenomena, such as music or genre, do not merely describe or predict but are performatively changing the very thing they model.
+
+# Core Readings
+
+Green, Owen, Bob L. T. Sturm, Georgina Born, and Melanie Wald-Fuhrmann. ‘A Critical Survey of Research in Music Genre Recognition’. In Proceedings of the 25th International Society for Music Information Retrieval, 2024. https://ismir2024program.ismir.net/poster_149.html.
+
+Salamon, Justin. ‘What’s Broken in Music Informatics Research? Three Uncomfortable Statements’. In 36th International Conference on Machine Learning (ICML), Workshop on Machine Learning for Music Discovery. Long Beach, CA, USA, 2019. 
+
+# Further Readings
+
+Andersson, C., Törnberg, A., & Törnberg, P. (2014). Societal systems – Complex or worse? Futures, 63, 145–157. https://doi.org/10.1016/j.futures.2014.07.003
+
+Born, G. (2011). Music and the materialization of identities. Journal of Material Culture, 16(4), 376–388. https://doi.org/10.1177/1359183511424196
+
+Healy, K. (2017). Fuck Nuance. Sociological Theory, 35(2), 118–127. https://doi.org/10.1177/0735275117709046
+
+Kockelman, P. (2020). The Epistemic and Performative Dynamics of Machine Learning Praxis. Signs and Society, 8(2), 319–355. https://doi.org/10.1086/708249
+
+Sterne, Jonathan. ‘Is Machine Listening Listening?’ communication +1 9, no. 1 (31 October 2022). https://doi.org/10.7275/zeqh-eg38.
+
+Wiggins, Geraint. ‘Semantic Gap?? Schemantic Schmap‼ Methodological Considerations in the Scientific Study of Music’. In 11th IEEE International Symposium on Multimedia, 2009. ISM ’09, 477–82, 2009. https://doi.org/10.1109/ISM.2009.36.

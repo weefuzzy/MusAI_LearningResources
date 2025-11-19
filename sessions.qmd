@@ -1,0 +1,9 @@
+---
+title: "The sessions"
+listing:  
+    contents: "sessions/*.qmd"
+    type: grid 
+    fields: [title]
+---
+
+These are the sessions. 

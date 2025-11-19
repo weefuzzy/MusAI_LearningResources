@@ -1,0 +1,21 @@
+---
+title: "AI and Artistic Critique"
+subtitle: "What is artistic critique in relation to AI?" 
+author: "Christopher Haworth"
+---
+
+# Abstract 
+
+What is artistic critique in relation to AI, and how does it relate to other configurations of art’s relationship to technoscience — for instance ideological, demonstrative, collaborative? What use is critique generally in relation to AI and technoscience, and what use is artistic critique specifically? How does the history of AI critique in music relate to canonical philosophical and humanistic critiques of AI?
+
+# Core Readings
+
+Haworth, C., 2021. ‘Introduction to Music and Cybernetics in Historical Perspective’ (Eds C. Haworth and E. Drott). Resonance: The Journal of Sound and Culture, 2(4), pp.461-474. 
+
+Haworth, C., 2025. ‘AI Winters, Cybernetic Springs: Species of AI critique in the work of Maryanne Amacher and David Tudor’, forthcoming in Cambridge Forum on AI: Culture and Society, 1(3).
+
+# Further Readings
+
+Stark, L. and Crawford, K., 2019. ‘The Work of Art in the Age of Artificial Intelligence: What artists can teach us about the ethics of data practice’. Surveillance & Society, 17(3/4), pp.442-455.
+
+Dreyfus, H.L., 1992. What Computers Still Can’t Do: A Critique of Artificial Reason. The MIT Press. (excerpt).

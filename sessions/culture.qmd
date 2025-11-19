@@ -1,0 +1,25 @@
+---
+title: "Culture, Interdisciplinarity, and ML"
+---
+
+# Abstract
+Introductory overview: setting the agenda regarding getting ‘beyond ethics’ in critical thinking about ML, in favour of the necessity of developing wider interdisciplinary and structural understandings of AI/ML. Establishing music as an exemplary domain for thinking through these issues, and introducing the MusAI research program’s attempts to develop critical accounts of AI and music, and this course as a key experimental step in our work. A first lens on these issues is through recent debates on ‘AI and culture’, drawing out, via a focus on recommender systems, how culture gets into ML in several distinct ways. From this to the question of how ML applications configure human users, employing ideas from Science and Technology Studies (STS) – and asking: could it be otherwise?
+
+# Core Readings
+
+Born, G. (2023). ‘What is a Music Recommender System, How do Culture and Society Get Into It, and How Can It Be Oriented to the Public Good?’. Keynote lecture for the MuRS: Music Recommender Systems Workshop at the 2023 ACM Recommender Systems (RecSys) Conference, Singapore.
+
+Akrich, Madeleine. (1992) ‘The De-Scription of Technical Objects’. In Shaping Technology / Building Society: Studies in Sociotechnical Change, edited by Wiebe E. Bijker and John Law, 205–24. (MIT Press).
+
+# Further Reading
+Barry, A., Born, G., & Weszkalnys, G. (2008). ‘Logics of Interdisciplinarity’. Economy and Society, 37(1), 20–49. https://doi.org/10.1080/03085140701760841
+
+Kind, C. (2020). ‘The Term ‘Ethical AI’ is Finally Starting to Mean Something’. VentureBeat. https://venturebeat.com/ai/the-term-ethical-ai-is-finally-starting-to-mean-something/
+
+Birhane, A. (2021). ‘Algorithmic Injustice: A Relational Ethics Approach’. Patterns, 2(2), 100205. https://doi.org/10.1016/j.patter.2021.100205
+
+Born, G., & Barry, A. (2010). ‘Art-Science: From Public Understanding to Public Experiment’. Journal of Cultural Economy, 3(1), 103–119. https://doi.org/10.1080/17530351003617610
+
+Holzapfel, Andre, Bob L. Sturm, and Mark Coeckelbergh. (2018) ‘Ethical Dimensions of Music Information Retrieval Technology’. Transactions of the International Society for Music Information Retrieval 1(1) https://doi.org/10.5334/tismir.13.
+
+Oudshoorn, N., & Pinch, T. (2003). ‘Introduction: How Users and Non-Users Matter’, in Oudshoorn and Pinch (eds.), How Users Matter: The Co-Construction of Users and Technology. (MIT Press). https://doi.org/10.7551/mitpress/3592.003.0002
