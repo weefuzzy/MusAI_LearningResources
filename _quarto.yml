@@ -20,6 +20,15 @@ book:
       chapters:
       - playground/notebook.qmd
       - playground/references.qmd
+    - part: sessions.qmd
+      chapters:
+        - sessions/artcritique.qmd
+        - sessions/creaticepractice.qmd
+        - sessions/culture.qmd
+        - sessions/models.qmd
+        - sessions/others.qmd
+        - sessions/personalisation.qmd
+        - sessions/politicaleconomy.qmd
 
 
 # this would be a global bib, but I think we can have them per-page too
@@ -27,6 +36,7 @@ bibliography: playground/references.bib
 
 format:
   html:
+    number-sections: false
     theme:
       - litera
       - theme-light.scss 
@@ -88,8 +98,6 @@ format:
           }
 
           </style>  
-  pdf:
-    documentclass: scrreprt
 
 website: 
   page-footer: |
